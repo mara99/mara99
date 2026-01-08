@@ -34,3 +34,39 @@ Production-first Shopify Plus development — storefronts, headless commerce, th
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="20" style="vertical-align:middle; margin:4px" />
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="20" style="vertical-align:middle; margin:4px" />
 </p>
+
+---
+
+## Migration
+
+<p>
+  <img alt="WooCommerce" src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <span style="vertical-align:middle; margin:0 8px;">⇄</span>
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify%20Plus-95bf47?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin-left:6px" />
+  <span style="vertical-align:middle; margin-left:10px;">WooCommerce ⇄ Shopify or Shopify Plus</span>
+</p>
+
+<p>
+  <img alt="BigCommerce" src="https://img.shields.io/badge/BigCommerce-2E8B57?style=flat&logo=bigcommerce&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <span style="vertical-align:middle; margin:0 8px;">⇄</span>
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify%20Plus-95bf47?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin-left:6px" />
+  <span style="vertical-align:middle; margin-left:10px;">BigCommerce ⇄ Shopify or Shopify Plus</span>
+</p>
+
+<p>
+  <img alt="Magento" src="https://img.shields.io/badge/Magento-FF4400?style=flat&logo=magento&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <span style="vertical-align:middle; margin:0 8px;">➜</span>
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify%20Plus-95bf47?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin-left:6px" />
+  <span style="vertical-align:middle; margin-left:10px;">Magento → Shopify or Shopify Plus</span>
+</p>
+
+<p>
+  <img alt="Any platform" src="https://img.shields.io/badge/Any%20Platform-Convert-6c757d?style=flat" height="18" style="vertical-align:middle; margin:4px" />
+  <span style="vertical-align:middle; margin:0 8px;">➜</span>
+  <img alt="Shopify" src="https://img.shields.io/badge/Shopify-000000?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin:4px" />
+  <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify%20Plus-95bf47?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin-left:6px" />
+  <span style="vertical-align:middle; margin-left:10px;">Any platform → Shopify or Shopify Plus</span>
+</p>
