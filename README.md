@@ -1,5 +1,3 @@
-## <img src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" width="250px" align="center" style="display:block;margin:0 auto;"/>
-Joined GitHub on April 12, 2012 
 <!-- HeyMara README — centered banner with background color and logo -->
 <div align="center" style="background:#ddd2bb;padding:18px;border-radius:8px;margin-bottom:16px;">
   <a href="https://heymara.com" title="HeyMara">
@@ -71,3 +69,7 @@ Production-first Shopify Plus development — storefronts, headless commerce, th
   <img alt="Shopify Plus" src="https://img.shields.io/badge/Shopify%20Plus-95bf47?style=flat&logo=shopify&logoColor=white" height="18" style="vertical-align:middle; margin-left:6px" />
   <span style="vertical-align:middle; margin-left:10px;">Any platform → Shopify or Shopify Plus</span>
 </p>
+
+##
+<img src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" width="250px" style="vertical-align:middle"/>
+Joined GitHub on April 12, 2012
