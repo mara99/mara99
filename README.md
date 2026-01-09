@@ -1,4 +1,5 @@
-## Joined GitHub on April 12, 2012 <img src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" width="250px"/>
+## <img src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" width="250px" align="center" style="display:block;margin:0 auto;"/>
+Joined GitHub on April 12, 2012 
 <!-- HeyMara README — centered banner with background color and logo -->
 <div align="center" style="background:#ddd2bb;padding:18px;border-radius:8px;margin-bottom:16px;">
   <a href="https://heymara.com" title="HeyMara">
