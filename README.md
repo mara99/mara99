@@ -1,8 +1,8 @@
-## Hi there 👋
+## Joined GitHub on April 12, 2012 <img src="https://github.githubassets.com/assets/profile-joined-github-456737b47749.svg" width="250px"/>
 <!-- HeyMara README — centered banner with background color and logo -->
 <div align="center" style="background:#ddd2bb;padding:18px;border-radius:8px;margin-bottom:16px;">
   <a href="https://heymara.com" title="HeyMara">
-    <img src="https://drive.google.com/file/d/1QwmVcSelbcAZwwjHWxJiJwUsc2uN5AG2/view?usp=sharing" alt="HeyMara logo" width="220" style="display:block;margin:0 auto;" />
+    <img src="https://heymara.com/cdn/shop/files/heymara_600x.svg?v=1717125742" alt="HeyMara logo" width="220" style="display:block;margin:0 auto;" />
   </a>
 </div>
 
